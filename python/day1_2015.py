@@ -10,6 +10,7 @@ def day1_2015_2(s):
     result = 0
 
     for i in range(len(s)):
+        c = s[i]
         if c == "(": result += 1
         else: result -= 1
 
