@@ -1,4 +1,4 @@
-public class Day1_2015 {
+public class Day1 {
 
     public static int day1_2015_1(String s) {
         int result = 0;
