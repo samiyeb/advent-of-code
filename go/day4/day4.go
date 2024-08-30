@@ -1,5 +1,3 @@
-// Used the pseudocode on https://en.wikipedia.org/wiki/MD5
-
 package main
 
 import (
